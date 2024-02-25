@@ -1,0 +1,2 @@
+# tea-kusruk
+tea testnet
